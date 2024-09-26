@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Tanya8135/draft-node/issues"
   },
-  "homepage": "https://github.com/Tanya8135/draft-node#readme"
+  "homepage": "https://github.com/Tanya8135/draft-node#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
 }
